@@ -67,7 +67,7 @@ int main(int argc, char *argv[])
 
 	std::string fname;
 	if (argc > 1) fname = argv[1];
-	else fname = "pan-tadeusz2.txt";
+	else fname = "pan-tadeusz.txt";
 
 	std::ifstream fhandle;
 	fhandle.open(fname);
