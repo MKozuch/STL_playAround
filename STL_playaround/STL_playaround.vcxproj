@@ -143,7 +143,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <Text Include="pan-tadeusz.txt" />
-    <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h" />
